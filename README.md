@@ -1,0 +1,1 @@
+This repository demonstrates a common C programming error: integer overflow. The bug.c file contains a simple program that can lead to an integer overflow if the integer variable exceeds the system's maximum integer capacity. The bugSolution.c file provides the solution by incorporating checks to mitigate or avoid potential integer overflows.
